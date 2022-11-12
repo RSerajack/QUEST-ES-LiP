@@ -1,2 +1,11 @@
 Uma escola está adotando o método de grade escolar semelhante ao americano. E, além disso, a escola também quer que o sistema de notas seja automatizado, para isso
-a escola contratou os seus serviços como programador para desenvolver um algoritmo que gera um boletim para o aluno.
+a escola contratou os seus serviços como programador para desenvolver um algoritmo que gera um boletim para o aluno. A notas serão por matéria, cada matéria pode 
+escolher o peso que sua prova vale.
+
+Faça um programa que receba do usuário o nome de um aluno e em seguida receba várias notas de disciplinas diferentes, o programa para de receber
+entradas quando nota < 0.
+
+
+
+
+
